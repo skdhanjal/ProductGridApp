@@ -1,2 +1,2 @@
 # ProductGridApp
-this a sample responsive grid app
+This a sample responsive product grid app
