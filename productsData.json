@@ -1,33 +1,36 @@
 {
-
-"products":[{	"productTitle" : "Chryseia",
-			"productYear" : 2011,
-			"productArea" : "Douro",
-			"productPrice":"£55.90"
-		},
-		{
-			"productTitle" : "Meiomi Pinot Noir",
-			"productYear" : 2013,
-			"productArea" : "California",
-			"productPrice":"£19.90"
-
-		},
-		{
-			"productTitle" : "Leonetti Sauvignon",
-			"productYear" : 2012,
-			"productArea" : "Argentina",
-			"productPrice":"££15.90"
-		},
-		{
-			"productTitle" : "Antucura Cabernet",
-			"productYear" : 2012,
-			"productArea" : "India",
-			"productPrice":"£15.90"
-		},
-		{
-			"productTitle" : "Awesome Product",
-			"productYear" : 2015,
-			"productArea" : "London",
-			"productPrice":"£15.90"
-		}]
+    "products":
+    [
+        {
+            "productTitle": "Chryseia",
+            "productYear": 2011,
+            "productArea": "Douro",
+            "productPrice": "£55.90"
+        },
+        {
+            "productTitle": "Meiomi Pinot Noir",
+            "productYear": 2013,
+            "productArea": "California",
+            "productPrice": "£19.90"
+            
+        },
+        {
+            "productTitle": "Leonetti Sauvignon",
+            "productYear": 2012,
+            "productArea": "Argentina",
+            "productPrice": "££15.90"
+        },
+        {
+            "productTitle": "Antucura Cabernet",
+            "productYear": 2012,
+            "productArea": "India",
+            "productPrice": "£15.90"
+        },
+        {
+            "productTitle": "Awesome Product",
+            "productYear": 2015,
+            "productArea": "London",
+            "productPrice": "£15.90"
+        }
+    ]
 }		
